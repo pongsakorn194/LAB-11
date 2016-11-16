@@ -13,18 +13,24 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo1.1.png?raw=true)
 
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo2.1.png?raw=true)
+
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
+
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 ### การระบายสีด้วย TextureBrush
@@ -33,6 +39,7 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-4.png">
 </p>
+
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-5.png">
@@ -41,7 +48,7 @@
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen2_Paint(object sender, PaintEventArgs e)```
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
-</p>
+</p> 
 
 ### การระบายสีด้วย Path Gradient Brush
 
