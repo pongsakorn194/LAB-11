@@ -30,6 +30,7 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo3.png?raw=true)
 
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
@@ -39,16 +40,22 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-4.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.1.png?raw=true)
 
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-5.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.1.png?raw=true)
 
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen2_Paint(object sender, PaintEventArgs e)```
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo5.1.png?raw=true)
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -64,10 +71,13 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
-
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo6.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo6.1.png?raw=true)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo7.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo7.1.png?raw=true)
