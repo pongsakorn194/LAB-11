@@ -40,8 +40,7 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-4.png">
 </p>
-![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.png?raw=true)
-![](https://github.com/pongsakorn194/LAB-11/blob/master/imgs/photo4.1.png?raw=true)
+
 
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
